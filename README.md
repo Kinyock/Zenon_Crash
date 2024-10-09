@@ -1,4 +1,4 @@
-<h1 align="center"> ZENON CRASH </h1>
+<h1 align="center"> Killer Ghost ☠️💀🚬</h1>
 <p align="center">  
   
 ***
