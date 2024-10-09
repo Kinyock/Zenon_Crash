@@ -12,11 +12,11 @@ global.location = "Africa, Nigeria, Lagos"
 
 global.ownernumber = '237673804138'  //creator number
 global.ownername = 'killer Ghost ☠️💀🚬' //owner name
-global.botname = 'ghost☠️'💀🚬 //name of the bot
+global.botname = 'ghost' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'ZENON\n\nContact: 48459439078'
+global.author = 'ZENON\n\nContact: 237673804138'
 
 //console view/theme
 global.themeemoji = '💀'
