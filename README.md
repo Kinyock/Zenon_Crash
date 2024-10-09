@@ -3,7 +3,7 @@
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;ZENON +CRASH;WHATSAPP+BUG+BOT;CREATED+BY+TOXXIC+BOY;RELEASED+15-08-24" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ; Killer+Ghost ☠️ 💀 🚬 ;WHATSAPP+BUG+BOT;CREATED+BY+Killer+Ghost ☠️ 💀 🚬 ;RELEASED+15-08-24" alt="Typing SVG" /></a>
   </p>
     <a href="https://ibb.co/4dZX3XG"><img src="https://i.ibb.co/6BRTLTx/thumb.jpg" alt="thumb" border="0"></a>
 <p align="center">
