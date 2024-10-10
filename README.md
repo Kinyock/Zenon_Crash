@@ -1,4 +1,4 @@
-bien<h1 align="center"> Killer Ghost ☠️💀🚬</h1>
+bien<h1 align="center"> 𝐊𝚰𝐋𝐋𝚵𝚪 𝐆𝚮𝚯𝐒𝚻 ☠️💀🚬</h1>
 <p align="center">  
   
 ***
@@ -7,12 +7,11 @@ bien<h1 align="center"> Killer Ghost ☠️💀🚬</h1>
   </p>
 <p align="center">
 <p align="center">
-<a href="https://github.com/Toxic1239/Killer_ghost☠️💀🚬"><img title="Author" src="https://img.shields.io/badge/ZenonCrash?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Toxic1239/Killer_ghost☠️💀🚬"></a>
 <p align="center">
-<a href="https://github.com/Toxic1239/followers"><img title="Followers" src="https://img.shields.io/github/followers/Toxic1239?color=blue&style=flat-square"></a>
-<a href="https://github.com/Toxic1239/Zenon_Crash/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Toxic1239/Zenon_Crash-Star?color=red&style=flat-square"></a>
-<a href="https://github.com/Toxic1239/Zenon_Crash/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Toxic1239/Zenon_Crash?color=green&style=flat-square"></a>
-<a href="https://github.com/Toxic1239/Zenon_Crash/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Toxic1239/Zenon_Crash?label=Watchers&color=yellow&style=flat-square"></a>
+<a title="Followers" </a>
+
+
 
 ### FIRST STAR AND FORK (IMPORTANT) 
 
